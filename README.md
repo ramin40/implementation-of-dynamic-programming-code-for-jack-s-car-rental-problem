@@ -25,3 +25,7 @@ To simplify the problem slightly, we assume that there can be no more than 20 ca
 Solving this problem means solving two things, firstly how many cars should Jack move, overnight, between each location, to maximize his total expected reward, i.e., what should be his strategy (policy) given a situation (state) and secondly, if Jack knows this strategy, how can he compare which situations are better than others (value)?
 
 refrence: [medium](https://towardsdatascience.com/elucidating-policy-iteration-in-reinforcement-learning-jacks-car-rental-problem-d41b34c8aec7)
+
+## how to use
+- run `Jack's_car_rental_problem` notebook or load `optimal value function.npy` with numpy.
+- have fun :wink:
